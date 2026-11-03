@@ -11,9 +11,10 @@ associated with employee attrition and recommends retention strategies.
 - **No gender gap:** Attrition is evenly split between male and female employees
 
 ## Repository Contents
-- `report/` – Full written analysis and recommendations
-- `dashboards/` – Tableau dashboard screenshots
+- `dashboard/` – Tableau dashboard screenshots
 - `data/` – Source employee dataset
+
+- `readme/` – Project overview- `report/` – Full written analysis and recommendations
 
 ## Tools Used
 Tableau (dashboards and visualization), Excel
